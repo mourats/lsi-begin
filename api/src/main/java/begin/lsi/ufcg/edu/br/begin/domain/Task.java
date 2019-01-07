@@ -1,5 +1,7 @@
 package begin.lsi.ufcg.edu.br.begin.domain;
 
+import begin.lsi.ufcg.edu.br.begin.domain.util.TaskInfo;
+
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.Id;
